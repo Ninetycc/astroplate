@@ -129,3 +129,11 @@ KERRY L CASSIDY\@camelotQKerry
 **Nugget's News**
 
 **​**[**https://www.youtube.com/@NuggetsNews/shorts**](https://www.youtube.com/@NuggetsNews/shorts)​
+
+​
+
+# Bro Got Arrested For DUI While Sober & Has A 200 IQ
+
+​[Rideshare Coach](https://www.youtube.com/@TheRideshareCoach)​
+
+​[https://www.youtube.com/watch?v=fWHJLKF4jfM](https://www.youtube.com/watch?v=fWHJLKF4jfM)​
