@@ -100,6 +100,14 @@ _​_[_https://www.rumormillnews.com/cgi-bin/forum.cgi?read=265034_](https://www
 
 ​
 
+**Whiskey and Wisdom with MarkZ, MikeB, and Zester. 02/18/2026**
+
+​[https://www.youtube.com/@theoriginalmarkz](https://www.youtube.com/@theoriginalmarkz)​
+
+​[https://www.youtube.com/watch?v=frWBnerpftA](https://www.youtube.com/watch?v=frWBnerpftA)​
+
+​
+
 **Nugget's News**
 
 **​**[**https://www.youtube.com/@NuggetsNews/shorts**](https://www.youtube.com/@NuggetsNews/shorts)​
