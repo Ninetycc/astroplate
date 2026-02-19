@@ -1,4 +1,5 @@
 ---
+import AboutL from "@/components/AboutL.astro";
 import ImageMod from "@/components/ImageMod.astro";
 import Base from "@/layouts/Base.astro";
 import { getListPage } from "@/lib/contentParser.astro";
@@ -38,6 +39,7 @@ if (aboutIndex.data.draft) {
           }
           <h2 set:html={markdownify(title)} class="h3 mb-6" />
           <div class="content">
+              <AboutL />	
             <Content />
           </div>
         </div>

@@ -1,4 +1,5 @@
 ---
+import AboutL from "@/components/AboutL.astro";
 import ImageMod from "@/components/ImageMod.astro";
 import Base from "@/layouts/Base.astro";
 import { getListPage } from "@/lib/contentParser.astro";
@@ -50,6 +51,7 @@ const { banner, features } = homepage.data;
                 alt="banner"
                 format="webp"
               />
+               <AboutL />	
             </div>
           )
         }
@@ -60,7 +62,7 @@ const { banner, features } = homepage.data;
 
   <!-- Features -->
   {
-    features.map((feature, index: number) => (
+    features.map((feature: any, index: number) => (
       <section class={`section-sm ${index % 2 === 0 && "bg-gradient"}`}>
         <div class="container">
           <div class="row items-center justify-between">

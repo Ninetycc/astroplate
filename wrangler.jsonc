@@ -1,0 +1,8 @@
+  {
+    "name": "astroplate",
+    "compatibility_date": "2026-02-19",
+    "preview_urls": true,
+    "assets": {
+    "directory": "./dist"
+    }
+  }

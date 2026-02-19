@@ -1,4 +1,5 @@
 ---
+import AboutL from "@/components/AboutL.astro";
 import AuthorCard from "@/components/AuthorCard.astro";
 import Base from "@/layouts/Base.astro";
 import { getListPage, getSinglePage } from "@/lib/contentParser.astro";
@@ -22,6 +23,7 @@ const authors = await getSinglePage("authors");
           authors.map((author) => (
             <div class="mb-14 md:col-6 lg:col-4">
               <AuthorCard data={author} />
+             
             </div>
           ))
         }
