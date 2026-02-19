@@ -100,11 +100,25 @@ _​_[_https://www.rumormillnews.com/cgi-bin/forum.cgi?read=265034_](https://www
 
 ​
 
-**Whiskey and Wisdom with MarkZ, MikeB, and Zester. 02/18/2026**
+Mike Bara\@MikeBara333
 
-​[https://www.youtube.com/@theoriginalmarkz](https://www.youtube.com/@theoriginalmarkz)​
+​[https://x.com/MikeBara333](https://x.com/MikeBara333)​
+
+​
+
+Whiskey and Wisdom with MarkZ, MikeB, and Zester. 02/18/2026
+
+​[theoriginalmarkz](https://www.youtube.com/@theoriginalmarkz)​
 
 ​[https://www.youtube.com/watch?v=frWBnerpftA](https://www.youtube.com/watch?v=frWBnerpftA)​
+
+​
+
+# Patriot Street fighter Roundtable McKay, Jaco, and Reid. Epstein Files: Drip, Drip, Flood!!!.....
+
+​[Michael Jaco](https://www.youtube.com/@MichaelKJaco)​
+
+​[https://www.youtube.com/watch?v=bUYiQulKQL0](https://www.youtube.com/watch?v=bUYiQulKQL0)​
 
 ​
 
