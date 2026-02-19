@@ -137,3 +137,7 @@ KERRY L CASSIDY\@camelotQKerry
 ​[Rideshare Coach](https://www.youtube.com/@TheRideshareCoach)​
 
 ​[https://www.youtube.com/watch?v=fWHJLKF4jfM](https://www.youtube.com/watch?v=fWHJLKF4jfM)​
+
+**Bro Got Arrested For Drinking Soda**
+
+**​**[**https://www.youtube.com/watch?v=B-40X05MPro**](https://www.youtube.com/watch?v=B-40X05MPro)​
