@@ -25,3 +25,19 @@ Premiered on 17 Feb 2026, John Michael Chambers is joined by retired Australian 
 Together, they explore the deliberate democratization of media and entertainment—how the same tools once used to control the masses are now being turned toward liberation, from AI-generated music to independent films that challenge the Hollywood narrative. Bosi offers a masterclass on the casting of the current "movie" we're all living in: why figures like Pam Bondi, Kevin Warsh, and even Mike Pence were placed in specific roles, and how the public's inability to read the script leads to confusion and misplaced outrage.
 
 ​[https://johnmichaelchambers.com/](https://johnmichaelchambers.com/)​
+
+​
+
+# Capt Kyle Patriots End Game US Aussie Rd Table w Capt Kyle, Kelly & LTC Bosi
+
+​[**CaptKylePatriots**](https://rumble.com/user/CaptKylePatriots?e9s=src_v1_cbl)​
+
+​[https://rumble.com/v761gyw-capt-kyle-patriots-end-game-us-aussie-rd-table-w-capt-kyle-kelly-and-ltc-bo.html](https://rumble.com/v761gyw-capt-kyle-patriots-end-game-us-aussie-rd-table-w-capt-kyle-kelly-and-ltc-bo.html)​
+
+Capt Kyle\@CaptKylePatriot
+
+​[https://x.com/CaptKylePatriot](https://x.com/CaptKylePatriot)​
+
+Capt Kyle Patriots End Game US Aussie Rd Table w Capt Kyle, Kelly & LTC Bosi
+
+​[https://x.com/CaptKylePatriot/status/2025007227153621130](https://x.com/CaptKylePatriot/status/2025007227153621130)​
