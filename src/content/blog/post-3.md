@@ -1,12 +1,14 @@
 ---
 title: "Real Disclosure Coming? | Daria"
 meta_title: ""
-description: "this is meta description"
-date: 2026-02-21T01:00:00Z
+description: "Disclosure Coming"
+date: 2026-02-21T01:00:00.000Z
 image: "/images/image-placeholder.png"
-categories: ["Intel"]
+categories:
+  - Intel
 author: "Peter Alex"
-tags: ["Disclosure"]
+tags:
+  - Disclosure
 draft: false
 ---
 
