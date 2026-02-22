@@ -85,14 +85,15 @@ Dr. Jane Ruby welcomes one of the original frontline doctors, Navy veteran, past
 
 ​
 
-**Reader: THE TRUTH: Dalai Lama | Epstein Files | Deepak Chopra**
+## Reader: THE TRUTH: Dalai Lama | Epstein Files | Deepak Chopra
 
 **Posted By: RumorMail
-Date: Saturday, 14-Feb-2026 00:07:36&#xA;**[_www.rumormill.news/265034_](http://www.rumormill.news/265034)
+Date: Saturday, 14-Feb-2026 00:07:36
+[_www.rumormill.news/265034_](http://www.rumormill.news/265034)
 
-_​_[_https://www.rumormillnews.com/cgi-bin/forum.cgi?read=265034_](https://www.rumormillnews.com/cgi-bin/forum.cgi?read=265034)​
+[_https://www.rumormillnews.com/cgi-bin/forum.cgi?read=265034_](https://www.rumormillnews.com/cgi-bin/forum.cgi?read=265034)​
 
-# Mike Bara Ancient Aliens & Jerry Reid Reveal @ The Summit Could Wipe Out Your Electric Bill for EVER
+## Mike Bara Ancient Aliens & Jerry Reid Reveal @ The Summit Could Wipe Out Your Electric Bill for EVER
 
 ​[XRPQFSTeam2](https://www.youtube.com/@xrpqfs1776)​
 
@@ -112,23 +113,9 @@ Whiskey and Wisdom with MarkZ, MikeB, and Zester. 02/18/2026
 
 ​[https://www.youtube.com/watch?v=frWBnerpftA](https://www.youtube.com/watch?v=frWBnerpftA)​
 
-​
+## Nugget's News
 
-KERRY L CASSIDY\@camelotQKerry
-
-​[https://x.com/camelotQKerry](https://x.com/camelotQKerry)​
-
-# Patriot Street fighter Roundtable McKay, Jaco, and Reid. Epstein Files: Drip, Drip, Flood!!!.....
-
-​[Michael Jaco](https://www.youtube.com/@MichaelKJaco)​
-
-​[https://www.youtube.com/watch?v=bUYiQulKQL0](https://www.youtube.com/watch?v=bUYiQulKQL0)​
-
-​
-
-**Nugget's News**
-
-**​**[**https://www.youtube.com/@NuggetsNews/shorts**](https://www.youtube.com/@NuggetsNews/shorts)​
+[**https://www.youtube.com/@NuggetsNews/shorts**](https://www.youtube.com/@NuggetsNews/shorts)​
 
 ​
 
@@ -138,6 +125,6 @@ KERRY L CASSIDY\@camelotQKerry
 
 ​[https://www.youtube.com/watch?v=fWHJLKF4jfM](https://www.youtube.com/watch?v=fWHJLKF4jfM)​
 
-**Bro Got Arrested For Drinking Soda**
+## Bro Got Arrested For Drinking Soda
 
-**​**[**https://www.youtube.com/watch?v=B-40X05MPro**](https://www.youtube.com/watch?v=B-40X05MPro)​
+[**https://www.youtube.com/watch?v=B-40X05MPro**](https://www.youtube.com/watch?v=B-40X05MPro)​

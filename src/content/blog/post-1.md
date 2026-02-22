@@ -12,7 +12,7 @@ tags:
   - JMC Broadcasting
 draft: false
 ---
-# The Light Within: From Epstein's Shadows to the Golden Age—A Battle for the Human Soul
+## The Light Within: From Epstein's Shadows to the Golden Age—A Battle for the Human Soul
 
 ​[JMC Broadcasting](https://www.youtube.com/@JMCBroadcasting)​
 
@@ -26,9 +26,17 @@ Together, they explore the deliberate democratization of media and entertainment
 
 ​[https://johnmichaelchambers.com/](https://johnmichaelchambers.com/)​
 
-​
+​KERRY L CASSIDY\@camelotQKerry
 
-# Capt Kyle Patriots End Game US Aussie Rd Table w Capt Kyle, Kelly & LTC Bosi
+​[https://x.com/camelotQKerry](https://x.com/camelotQKerry)​
+
+## Patriot Street fighter Roundtable McKay, Jaco, and Reid. Epstein Files: Drip, Drip, Flood
+
+​[Michael Jaco](https://www.youtube.com/@MichaelKJaco)​
+
+​[https://www.youtube.com/watch?v=bUYiQulKQL0](https://www.youtube.com/watch?v=bUYiQulKQL0)​
+
+## Capt Kyle Patriots End Game US Aussie Rd Table w Capt Kyle, Kelly & LTC Bosi
 
 ​[**CaptKylePatriots**](https://rumble.com/user/CaptKylePatriots?e9s=src_v1_cbl)​
 

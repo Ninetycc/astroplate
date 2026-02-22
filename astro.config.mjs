@@ -8,6 +8,7 @@ import remarkCollapse from "remark-collapse";
 import remarkToc from "remark-toc";
 import sharp from "sharp";
 import config from "./src/config/config.json";
+import rehypeExternalLinks from 'rehype-external-links';
 
 // https://astro.build/config
 export default defineConfig({
@@ -30,10 +31,13 @@ export default defineConfig({
         "@/shortcodes/Tab",
       ],
     }),
-    mdx(),
+        mdx({
+      rehypePlugins: [[rehypeExternalLinks, { target: '_blank', rel: [] }]],
+    }),
   ],
   markdown: {
     remarkPlugins: [remarkToc, [remarkCollapse, { test: "Table of contents" }]],
+    rehypePlugins: [[rehypeExternalLinks, { target: '_blank', rel: [] }]],
     shikiConfig: { theme: "one-dark-pro", wrap: true },
     extendDefaultPlugins: true,
   },
