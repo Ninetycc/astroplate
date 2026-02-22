@@ -49,3 +49,12 @@ Capt Kyle\@CaptKylePatriot
 Capt Kyle Patriots End Game US Aussie Rd Table w Capt Kyle, Kelly & LTC Bosi
 
 ​[https://x.com/CaptKylePatriot/status/2025007227153621130](https://x.com/CaptKylePatriot/status/2025007227153621130)​
+
+​
+
+**BREAKING SPECIAL REPORT! KASH PATEL UNLEASHES HELL: The Deep State Panics As List Of ‘GOVERNMENT GANGSTERS’ Faces Justice | February 21, 2026**
+
+**Posted By: Lymerick
+Date: Saturday, 21-Feb-2026 23:47:26&#xA;**_www\.rumormill.news/265334_
+
+_​_[_https://www.rumormillnews.com/cgi-bin/forum.cgi?read=265334_](https://www.rumormillnews.com/cgi-bin/forum.cgi?read=265334)​
