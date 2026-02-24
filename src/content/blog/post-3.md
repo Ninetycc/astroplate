@@ -33,14 +33,18 @@ draft: false
     >
   </a>
 
-[President Trump says he is ordering the government to fully release files on aliens, extraterrestrial life, and UFOs.](https://x.com/ShadowofEzra/status/2024664051121287206)
+#### [President Trump says he is ordering the government to fully release files on aliens, extraterrestrial life, and UFOs.](https://x.com/ShadowofEzra/status/2024664051121287206)
+
+##### [Matt Gaetz has claimed that some members of Congress believe aliens have already established bases on Earth and are actively operating from them.](https://x.com/ShadowofEzra/status/2024664051121287206)
+
+##### ​[https://x.com/InterstellarUAP/status/2026102106348830734?](https://x.com/InterstellarUAP/status/2026102106348830734?)​
 
 ​Shadow of Ezra
 @ShadowofEzra
 
 President Trump says he is ordering the government to fully release files on aliens, extraterrestrial life, and UFOs.
 
-Matt Gaetz has claimed that some members of Congress believe aliens have already established bases on Earth and are actively operating from them.
+
 
 Gaetz adds that he has spoken with U.S. military personnel who believe hybrid breeding programs are currently underway.
 
@@ -72,7 +76,7 @@ Q said ISRAEL WILL BE LAST—now confirmed! Massive subterranean complex 1.8km d
 
 ​
 
-President Trump says his Board of Peace will soon partner with the United Nations in what he describes as a major restructuring effort.
+### President Trump says his Board of Peace will soon partner with the United Nations in what he describes as a major restructuring effort
 
 [**The first jpeg file just dropped!!**](https://x.com/SyllyYoungLad/status/2024666983632142420)
 
